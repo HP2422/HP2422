@@ -6,4 +6,5 @@ I have a knowledge about Html,Css and Javascript for the frontend side. I comple
 Right now, I am exploring my knowledge in Front-end as well as Back-end, because I think that to become a Full-stack developer it is very important. Every field's little bit knowledge is essential to become a Software Developer.
 
 Thanks,
+
 Harsh Patel.
